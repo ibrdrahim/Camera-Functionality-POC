@@ -21,5 +21,9 @@
 			</array>
 		</dict>
 	</dict>
+    <key>NSCameraUsageDescription</key>
+    <string>We need access to your camera to take photos and videos.</string>
+    <key>NSPhotoLibraryUsageDescription</key>
+    <string>We need access to your library for saving the photos and videos.</string>
 </dict>
 </plist>
